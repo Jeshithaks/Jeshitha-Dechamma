@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Resume - Dechamma KS</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px auto;
+      max-width: 800px;
+      padding: 20px;
+      color: #333;
+    }
+    h1, h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .contact a {
+      color: #333;
+      text-decoration: none;
+    }
+    .contact a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Dechamma KS</h1>
+  <h3>(Finance & Business Analytics)</h3>
+
+  <div class="section contact">
+    <h2>Contact</h2>
+    <p>Phone: 9986914001</p>
+    <p>Email: <a href="mailto:jeshitha612@gmail.com">jeshitha612@gmail.com</a></p>
+    <p>Location: Bengaluru, Karnataka</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/dechamma-ks-2267462b3" target="_blank">linkedin.com/in/dechamma-ks</a></p>
+  </div>
+
+  <div class="section">
+    <h2>Career Objective</h2>
+    <p>To secure a challenging role where my education and intelligence can be utilized and expanded at the same time use the best of my potential to contribute positively to the growth of the organization.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <strong>MBA in Finance & Business Analytics</strong>, Kristu Jayanti College, Bengaluru (2023–2025) – 81.57% (till 2nd trimester)
+      </li>
+      <li>
+        <strong>BSc in Biotechnology</strong>, Aditya Institute of Management Studies & Research (2018–2021) – 88.46%
+      </li>
+      <li>
+        <strong>12th (PCBH)</strong>, Kendriya Vidyalaya (2017–2018) – 89.2%
+      </li>
+      <li>
+        <strong>10th (CBSE)</strong>, Kendriya Vidyalaya (2015–2016) – 91.20%
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Experience / Internship</h2>
+    <p><strong>Business Development Associate</strong> (2022–2023)</p>
+    <p>Worked at Pentagon Space Pvt Ltd in the area of Finance (Apr 2022 – Feb 2023). Responsibilities included:</p>
+    <ul>
+      <li>Recommending solutions to customers using product/service knowledge</li>
+      <li>Utilizing CRM software for lead generation and opportunity creation</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Achievements</h2>
+    <ul>
+      <li>2nd Prize in People Management at Talento 2024, Kristu Jayanti College</li>
+      <li>Overall Winners of Abhigyan 2024 – Theatre-based learning of management concepts</li>
+      <li>Gold Medal in BSc at Aditya Institute of Management Studies</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Leadership Roles</h2>
+    <ul>
+      <li>Class Representative, MBA program, Kristu Jayanti College</li>
+      <li>Student Coordinator, Department Activities, Kristu Jayanti School of Management</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Soft Skills</h2>
+    <ul>
+      <li>Creativity</li>
+      <li>Communication</li>
+      <li>Problem Solving</li>
+      <li>Teamwork</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Personal Strengths</h2>
+    <ul>
+      <li>Creative & Innovative</li>
+      <li>Adaptability</li>
+      <li>Dedicated & Punctual</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Languages</h2>
+    <ul>
+      <li>English – Speak / Read / Write</li>
+      <li>Kannada – Speak / Read</li>
+      <li>Hindi – Speak / Read / Write</li>
+      <li>Kodava – Speak</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Additional Qualifications</h2>
+    <ul>
+      <li>Certified in Life Skills for iGen Executives – Kristu Jayanti College</li>
+      <li>Completed Certification Course on Banking & Insurance – SWAYAM</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Computer Proficiency</h2>
+    <ul>
+      <li>Python</li>
+      <li>Tally ERP</li>
+      <li>Tableau</li>
+      <li>Microsoft Excel, Word, PowerPoint</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Active Participation</h2>
+    <ul>
+      <li>Talento – Intra-collegiate Management Fest</li>
+      <li>Abhigyan – Theatre-based Management Learning Event</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>References</h2>
+    <ul>
+      <li>
+        <strong>Prof. Sen B Mathews</strong><br>
+        Director, CECR, Kristu Jayanti College<br>
+        Mobile: 9632815852<br>
+        Email: placement@kristujayanti.com
+      </li>
+      <li>
+        <strong>Dr. D Joseph Charles Tamilmaran</strong><br>
+        Head – School of Management, Kristu Jayanti College<br>
+        Mobile: 9206692895<br>
+        Email: josephct@kristujayanti.com
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Declaration</h2>
+    <p>I, Dechamma KS, certify that to the best of my knowledge and belief, this data correctly describes my qualifications, experience, and me.</p>
+    <p><strong>– Dechamma KS</strong></p>
+  </div>
+
+</body>
+</html>
